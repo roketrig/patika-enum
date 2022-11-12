@@ -1,1 +1,1 @@
-# patika-struct
+# patika-enum
